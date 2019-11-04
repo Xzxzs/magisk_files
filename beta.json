@@ -9,8 +9,8 @@
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.1/Magisk-uninstaller-20191102.zip"
   },
   "magisk": {
-    "version": "20.1",
-    "versionCode": "20100",
+    "version": "19.3",
+    "versionCode": "19300",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.1/Magisk-v20.1.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6f94236b1407bd0c162647db75dfa2ac956163ca/notes.md",
     "md5": "994679ea19d7980f5fd28748c4e8abdd"
